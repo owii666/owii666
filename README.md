@@ -1,7 +1,5 @@
 <div align="center">
 
-# AKMAL FIRDAUS
-
 ### Web Developer
 
 Building clean, functional, and modern web experiences.
